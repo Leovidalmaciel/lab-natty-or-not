@@ -10,6 +10,6 @@ Plataforma Gammas App
 Treinando a utilizanção de prompts
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A apresentação sugere uma breve descrição de como obter uma vida mais saudável atráves da pratica de exercícios.
 
 [LINK DA APRESENTACAO](https://gamma.app/docs/Exercicios-para-uma-vida-mais-saudavel-s0crc01pll0o3t7)
