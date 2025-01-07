@@ -1,13 +1,13 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Apresentação utilizando IA generativa
 
-📒 Descrição
+# 📒 Descrição
 Breve descrição do seu projeto
 
-🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+# 🤖 Tecnologias Utilizadas
+Plataforma Gammas App
 
-🧐 Processo de Criação
-Descreva como você criou o conteúdo
+# 🧐 Processo de Criação
+Treinando a utilizanção de prompts
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
